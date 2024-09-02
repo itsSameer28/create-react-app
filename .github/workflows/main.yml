@@ -46,4 +46,4 @@ jobs:
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
         run: |
           surge login --token $SURGE_TOKEN
-          surge --project ./build --domain sameertalwara-porfolio.surge.sh
+          surge --project ./build --domain simple-web-todolist-app.surge.sh
