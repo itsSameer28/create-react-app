@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Anshu and abhi!!!!
+          Hello Anshu and Sameer!!!!
         </a>
       </header>
     </div>
